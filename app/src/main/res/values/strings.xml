@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04_Reservation</string>
+    <string name="nopax">No of People :</string>
+    <string name="name">Name :</string>
+    <string name="PH">Phone Number :</string>
+    <string name="smoking">Smoker ?</string>
+    <string name="babyseat">Baby Seat ?</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="reserve">RESERVE</string>
+    <string name="reset">RESET</string>
+    <string name="baby">Baby Seat ?</string>
+</resources>
